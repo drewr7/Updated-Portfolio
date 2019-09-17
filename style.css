@@ -1,0 +1,133 @@
+.lead {
+    width: 670px;
+    margin: auto;
+}
+.row {
+    width: 1200px;
+    margin: auto;
+}
+#logo-icon {
+    font-size: 25px;
+}
+.fas {
+    font-size: 80px;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.col-md-7 {
+    position: relative
+}
+
+.featurette-heading {
+    font-size: 50px;
+    position: absolute;
+    bottom: 215px;
+}
+
+.featurette-text {
+    position: absolute;
+    bottom: 125px;
+}
+.mb-3 {
+    margin: 0 !important;
+}
+
+.sideimage {
+    width: 485px;
+    height: 440px;
+}
+
+.btn-secondary {
+    text-align: center;
+    
+}
+#navbar {
+    width: 90%;
+    margin: auto !important;
+}
+
+#logo {
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 30px;
+    display: inline;
+}
+
+.skills {
+    font-family: 'Lexend Exa', sans-serif;
+    font-size: 45px;
+}
+
+.icon-text {
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 22px;
+}
+
+
+.media-icon {
+    font-size: 30px;
+}
+
+.contact-icon {
+    font-size: 16px;
+    color: white;
+    padding-right: 7px;
+}
+
+.text-white {
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 22px;
+}
+
+.contact-link {
+    font-family: 'Lexend Giga', sans-serif;
+    font-size: 16px;
+}
+
+.contact-list {
+    margin-bottom: 10px;
+}
+
+.py-4 {
+    padding-bottom: 0 !important;
+}
+
+#about-text {
+    padding-right: 30px;
+    font-family: 'Lexend Exa', sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    width: 90%;
+}
+
+#portrait {
+    width: 100px;
+    height: 100px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+#about-text {
+    text-align: justify;
+    color: rgba(255, 255, 255, 0.479);
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#project-cards {
+    margin-left: 100px !important;
+    margin-right: 100px !important;
+}
+
+#project-title {
+    font-family: 'Lexend Exa', sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
